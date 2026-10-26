@@ -13,7 +13,7 @@
       "BasePrice": 160,
       "Category": "Bücher",
       "Enabled": true,
-      "modactive": true
+      "modactive": true,
     },
     "Schematic": {
       "DefName": "Schematic",
@@ -28,7 +28,7 @@
       "BasePrice": 150,
       "Category": "Bücher",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Novel": {
       "DefName": "Novel",
@@ -43,7 +43,7 @@
       "BasePrice": 160,
       "Category": "Bücher",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Beer": {
       "DefName": "Beer",
@@ -58,7 +58,7 @@
       "BasePrice": 12,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Wort": {
       "DefName": "Wort",
@@ -73,7 +73,7 @@
       "BasePrice": 2,
       "Category": "Hergestellt",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Ambrosia": {
       "DefName": "Ambrosia",
@@ -88,7 +88,7 @@
       "BasePrice": 15,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "GoJuice": {
       "DefName": "GoJuice",
@@ -103,7 +103,7 @@
       "BasePrice": 53,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Luciferium": {
       "DefName": "Luciferium",
@@ -118,7 +118,7 @@
       "BasePrice": 70,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Penoxycyline": {
       "DefName": "Penoxycyline",
@@ -133,7 +133,7 @@
       "BasePrice": 18,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Flake": {
       "DefName": "Flake",
@@ -148,7 +148,7 @@
       "BasePrice": 14,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "PsychiteTea": {
       "DefName": "PsychiteTea",
@@ -163,7 +163,7 @@
       "BasePrice": 10,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Yayo": {
       "DefName": "Yayo",
@@ -178,7 +178,7 @@
       "BasePrice": 21,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "SmokeleafJoint": {
       "DefName": "SmokeleafJoint",
@@ -193,7 +193,7 @@
       "BasePrice": 11,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "WakeUp": {
       "DefName": "WakeUp",
@@ -208,7 +208,7 @@
       "BasePrice": 35,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Urn": {
       "DefName": "Urn",
@@ -223,7 +223,7 @@
       "BasePrice": 42,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "SculptureSmall": {
       "DefName": "SculptureSmall",
@@ -238,7 +238,7 @@
       "BasePrice": 165,
       "Category": "Kunst",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "SculptureLarge": {
       "DefName": "SculptureLarge",
@@ -253,7 +253,7 @@
       "BasePrice": 310,
       "Category": "Kunst",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "SculptureGrand": {
       "DefName": "SculptureGrand",
@@ -268,7 +268,7 @@
       "BasePrice": 1180,
       "Category": "Kunst",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Bed": {
       "DefName": "Bed",
@@ -283,7 +283,7 @@
       "BasePrice": 93,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "DoubleBed": {
       "DefName": "DoubleBed",
@@ -298,7 +298,7 @@
       "BasePrice": 175,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "RoyalBed": {
       "DefName": "RoyalBed",
@@ -313,7 +313,7 @@
       "BasePrice": 880,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "HospitalBed": {
       "DefName": "HospitalBed",
@@ -328,7 +328,7 @@
       "BasePrice": 400,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Bedroll": {
       "DefName": "Bedroll",
@@ -343,7 +343,7 @@
       "BasePrice": 82,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BedrollDouble": {
       "DefName": "BedrollDouble",
@@ -358,7 +358,7 @@
       "BasePrice": 174,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "AnimalSleepingBox": {
       "DefName": "AnimalSleepingBox",
@@ -373,7 +373,7 @@
       "BasePrice": 51,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "AnimalBed": {
       "DefName": "AnimalBed",
@@ -388,7 +388,7 @@
       "BasePrice": 81,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Stool": {
       "DefName": "Stool",
@@ -403,7 +403,7 @@
       "BasePrice": 52,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "DiningChair": {
       "DefName": "DiningChair",
@@ -418,7 +418,7 @@
       "BasePrice": 119,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Armchair": {
       "DefName": "Armchair",
@@ -433,7 +433,7 @@
       "BasePrice": 270,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Couch": {
       "DefName": "Couch",
@@ -448,7 +448,7 @@
       "BasePrice": 470,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EndTable": {
       "DefName": "EndTable",
@@ -463,7 +463,7 @@
       "BasePrice": 64,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Table1x2c": {
       "DefName": "Table1x2c",
@@ -478,7 +478,7 @@
       "BasePrice": 59,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Table2x2c": {
       "DefName": "Table2x2c",
@@ -493,7 +493,7 @@
       "BasePrice": 105,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Table2x4c": {
       "DefName": "Table2x4c",
@@ -508,7 +508,7 @@
       "BasePrice": 200,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Table3x3c": {
       "DefName": "Table3x3c",
@@ -523,7 +523,7 @@
       "BasePrice": 210,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "PlantPot": {
       "DefName": "PlantPot",
@@ -538,7 +538,7 @@
       "BasePrice": 41,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "StandingLamp": {
       "DefName": "StandingLamp",
@@ -553,7 +553,7 @@
       "BasePrice": 39,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "SunLamp": {
       "DefName": "SunLamp",
@@ -568,7 +568,7 @@
       "BasePrice": 77,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "WallLamp": {
       "DefName": "WallLamp",
@@ -583,7 +583,7 @@
       "BasePrice": 30,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "FloodLight": {
       "DefName": "FloodLight",
@@ -598,7 +598,7 @@
       "BasePrice": 97,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Shelf": {
       "DefName": "Shelf",
@@ -613,7 +613,7 @@
       "BasePrice": 42,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ShelfSmall": {
       "DefName": "ShelfSmall",
@@ -628,7 +628,7 @@
       "BasePrice": 21,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Bookcase": {
       "DefName": "Bookcase",
@@ -643,7 +643,7 @@
       "BasePrice": 42,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BookcaseSmall": {
       "DefName": "BookcaseSmall",
@@ -658,7 +658,7 @@
       "BasePrice": 21,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Dresser": {
       "DefName": "Dresser",
@@ -673,7 +673,7 @@
       "BasePrice": 107,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "HorseshoesPin": {
       "DefName": "HorseshoesPin",
@@ -688,7 +688,7 @@
       "BasePrice": 20,
       "Category": "Entspannung",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "HoopstoneRing": {
       "DefName": "HoopstoneRing",
@@ -703,7 +703,7 @@
       "BasePrice": 40,
       "Category": "Entspannung",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "GameOfUrBoard": {
       "DefName": "GameOfUrBoard",
@@ -718,7 +718,7 @@
       "BasePrice": 92,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ChessTable": {
       "DefName": "ChessTable",
@@ -733,7 +733,7 @@
       "BasePrice": 169,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "PokerTable": {
       "DefName": "PokerTable",
@@ -748,7 +748,7 @@
       "BasePrice": 240,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BilliardsTable": {
       "DefName": "BilliardsTable",
@@ -763,7 +763,7 @@
       "BasePrice": 360,
       "Category": "Möbel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TubeTelevision": {
       "DefName": "TubeTelevision",
@@ -778,7 +778,7 @@
       "BasePrice": 315,
       "Category": "Entspannung",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "FlatscreenTelevision": {
       "DefName": "FlatscreenTelevision",
@@ -793,7 +793,7 @@
       "BasePrice": 920,
       "Category": "Entspannung",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MegascreenTelevision": {
       "DefName": "MegascreenTelevision",
@@ -808,7 +808,7 @@
       "BasePrice": 1485,
       "Category": "Entspannung",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Telescope": {
       "DefName": "Telescope",
@@ -823,7 +823,7 @@
       "BasePrice": 350,
       "Category": "Entspannung",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gloomlight": {
       "DefName": "Gloomlight",
@@ -838,7 +838,7 @@
       "BasePrice": 200,
       "Category": "Spezial",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_ChargeBlasterHeavyTurret": {
       "DefName": "Gun_ChargeBlasterHeavyTurret",
@@ -853,7 +853,7 @@
       "BasePrice": 1400,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_InfernoCannonTurret": {
       "DefName": "Gun_InfernoCannonTurret",
@@ -868,7 +868,7 @@
       "BasePrice": 1400,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggBox": {
       "DefName": "EggBox",
@@ -883,7 +883,7 @@
       "BasePrice": 47,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "OrbitalTradeBeacon": {
       "DefName": "OrbitalTradeBeacon",
@@ -898,7 +898,7 @@
       "BasePrice": 111,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "FirefoamPopper": {
       "DefName": "FirefoamPopper",
@@ -913,7 +913,7 @@
       "BasePrice": 180,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MultiAnalyzer": {
       "DefName": "MultiAnalyzer",
@@ -928,7 +928,7 @@
       "BasePrice": 1020,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "VitalsMonitor": {
       "DefName": "VitalsMonitor",
@@ -943,7 +943,7 @@
       "BasePrice": 215,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ToolCabinet": {
       "DefName": "ToolCabinet",
@@ -958,7 +958,7 @@
       "BasePrice": 385,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "PenMarker": {
       "DefName": "PenMarker",
@@ -973,7 +973,7 @@
       "BasePrice": 62,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "GlowPod": {
       "DefName": "GlowPod",
@@ -988,7 +988,7 @@
       "BasePrice": 50,
       "Category": "Spezial",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Battery": {
       "DefName": "Battery",
@@ -1003,7 +1003,7 @@
       "BasePrice": 200,
       "Category": "Strom",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TableSculpting": {
       "DefName": "TableSculpting",
@@ -1018,7 +1018,7 @@
       "BasePrice": 255,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TableButcher": {
       "DefName": "TableButcher",
@@ -1033,7 +1033,7 @@
       "BasePrice": 181,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "HandTailoringBench": {
       "DefName": "HandTailoringBench",
@@ -1048,7 +1048,7 @@
       "BasePrice": 157,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ElectricTailoringBench": {
       "DefName": "ElectricTailoringBench",
@@ -1063,7 +1063,7 @@
       "BasePrice": 320,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "FueledSmithy": {
       "DefName": "FueledSmithy",
@@ -1078,7 +1078,7 @@
       "BasePrice": 200,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ElectricSmithy": {
       "DefName": "ElectricSmithy",
@@ -1093,7 +1093,7 @@
       "BasePrice": 295,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TableMachining": {
       "DefName": "TableMachining",
@@ -1108,7 +1108,7 @@
       "BasePrice": 455,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ElectricStove": {
       "DefName": "ElectricStove",
@@ -1123,7 +1123,7 @@
       "BasePrice": 225,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "FueledStove": {
       "DefName": "FueledStove",
@@ -1138,7 +1138,7 @@
       "BasePrice": 159,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TableStonecutter": {
       "DefName": "TableStonecutter",
@@ -1153,7 +1153,7 @@
       "BasePrice": 215,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Brewery": {
       "DefName": "Brewery",
@@ -1168,7 +1168,7 @@
       "BasePrice": 210,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "DrugLab": {
       "DefName": "DrugLab",
@@ -1183,7 +1183,7 @@
       "BasePrice": 445,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ElectricSmelter": {
       "DefName": "ElectricSmelter",
@@ -1198,7 +1198,7 @@
       "BasePrice": 400,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "SimpleResearchBench": {
       "DefName": "SimpleResearchBench",
@@ -1213,7 +1213,7 @@
       "BasePrice": 210,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "FermentingBarrel": {
       "DefName": "FermentingBarrel",
@@ -1228,7 +1228,7 @@
       "BasePrice": 57,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "DeepDrill": {
       "DefName": "DeepDrill",
@@ -1243,7 +1243,7 @@
       "BasePrice": 290,
       "Category": "Produktion",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TrapSpike": {
       "DefName": "TrapSpike",
@@ -1258,7 +1258,7 @@
       "BasePrice": 102,
       "Category": "Sicherheit",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TrapIED_HighExplosive": {
       "DefName": "TrapIED_HighExplosive",
@@ -1273,7 +1273,7 @@
       "BasePrice": 115,
       "Category": "Sicherheit",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TrapIED_Incendiary": {
       "DefName": "TrapIED_Incendiary",
@@ -1288,7 +1288,7 @@
       "BasePrice": 115,
       "Category": "Sicherheit",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TrapIED_EMP": {
       "DefName": "TrapIED_EMP",
@@ -1303,7 +1303,7 @@
       "BasePrice": 115,
       "Category": "Sicherheit",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TrapIED_Smoke": {
       "DefName": "TrapIED_Smoke",
@@ -1318,7 +1318,7 @@
       "BasePrice": 115,
       "Category": "Sicherheit",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TrapIED_Firefoam": {
       "DefName": "TrapIED_Firefoam",
@@ -1333,7 +1333,7 @@
       "BasePrice": 115,
       "Category": "Sicherheit",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TrapIED_AntigrainWarhead": {
       "DefName": "TrapIED_AntigrainWarhead",
@@ -1348,7 +1348,7 @@
       "BasePrice": 1205,
       "Category": "Sicherheit",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Turret_MiniTurret": {
       "DefName": "Turret_MiniTurret",
@@ -1363,7 +1363,7 @@
       "BasePrice": 295,
       "Category": "Sicherheit",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Turret_Mortar": {
       "DefName": "Turret_Mortar",
@@ -1378,7 +1378,7 @@
       "BasePrice": 900,
       "Category": "Sicherheit",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Turret_FoamTurret": {
       "DefName": "Turret_FoamTurret",
@@ -1393,7 +1393,7 @@
       "BasePrice": 615,
       "Category": "Sicherheit",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "PsychicEmanator": {
       "DefName": "PsychicEmanator",
@@ -1408,7 +1408,7 @@
       "BasePrice": 1300,
       "Category": "Spezial",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "VanometricPowerCell": {
       "DefName": "VanometricPowerCell",
@@ -1423,7 +1423,7 @@
       "BasePrice": 1200,
       "Category": "Spezial",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "InfiniteChemreactor": {
       "DefName": "InfiniteChemreactor",
@@ -1438,7 +1438,7 @@
       "BasePrice": 1500,
       "Category": "Spezial",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Heater": {
       "DefName": "Heater",
@@ -1453,7 +1453,7 @@
       "BasePrice": 131,
       "Category": "Temperatur",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "PsychicAnimalPulser": {
       "DefName": "PsychicAnimalPulser",
@@ -1468,7 +1468,7 @@
       "BasePrice": 700,
       "Category": "Artefakte",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "PsychicSoothePulser": {
       "DefName": "PsychicSoothePulser",
@@ -1483,7 +1483,7 @@
       "BasePrice": 600,
       "Category": "Artefakte",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "AIPersonaCore": {
       "DefName": "AIPersonaCore",
@@ -1498,7 +1498,7 @@
       "BasePrice": 4000,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MechSerumHealer": {
       "DefName": "MechSerumHealer",
@@ -1513,7 +1513,7 @@
       "BasePrice": 1300,
       "Category": "Drogen",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MechSerumResurrector": {
       "DefName": "MechSerumResurrector",
@@ -1528,7 +1528,7 @@
       "BasePrice": 1700,
       "Category": "Drogen",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TechprofSubpersonaCore": {
       "DefName": "TechprofSubpersonaCore",
@@ -1543,7 +1543,7 @@
       "BasePrice": 1000,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ThrumboHorn": {
       "DefName": "ThrumboHorn",
@@ -1558,7 +1558,7 @@
       "BasePrice": 800,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ElephantTusk": {
       "DefName": "ElephantTusk",
@@ -1573,7 +1573,7 @@
       "BasePrice": 80,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MealSurvivalPack": {
       "DefName": "MealSurvivalPack",
@@ -1588,7 +1588,7 @@
       "BasePrice": 24,
       "Category": "Mahlzeiten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MealNutrientPaste": {
       "DefName": "MealNutrientPaste",
@@ -1603,7 +1603,7 @@
       "BasePrice": 10,
       "Category": "Mahlzeiten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MealSimple": {
       "DefName": "MealSimple",
@@ -1618,7 +1618,7 @@
       "BasePrice": 15,
       "Category": "Mahlzeiten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MealFine": {
       "DefName": "MealFine",
@@ -1633,7 +1633,7 @@
       "BasePrice": 20,
       "Category": "Mahlzeiten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MealFine_Veg": {
       "DefName": "MealFine_Veg",
@@ -1648,7 +1648,7 @@
       "BasePrice": 20,
       "Category": "Mahlzeiten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MealFine_Meat": {
       "DefName": "MealFine_Meat",
@@ -1663,7 +1663,7 @@
       "BasePrice": 20,
       "Category": "Mahlzeiten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MealLavish": {
       "DefName": "MealLavish",
@@ -1678,7 +1678,7 @@
       "BasePrice": 40,
       "Category": "Mahlzeiten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MealLavish_Veg": {
       "DefName": "MealLavish_Veg",
@@ -1693,7 +1693,7 @@
       "BasePrice": 40,
       "Category": "Mahlzeiten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MealLavish_Meat": {
       "DefName": "MealLavish_Meat",
@@ -1708,7 +1708,7 @@
       "BasePrice": 40,
       "Category": "Mahlzeiten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Kibble": {
       "DefName": "Kibble",
@@ -1723,7 +1723,7 @@
       "BasePrice": 1,
       "Category": "Nahrung",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Pemmican": {
       "DefName": "Pemmican",
@@ -1738,7 +1738,7 @@
       "BasePrice": 1,
       "Category": "Nahrung",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Chocolate": {
       "DefName": "Chocolate",
@@ -1753,7 +1753,7 @@
       "BasePrice": 3,
       "Category": "Nahrung",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Milk": {
       "DefName": "Milk",
@@ -1768,7 +1768,7 @@
       "BasePrice": 2,
       "Category": "Tierische Produkte",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "InsectJelly": {
       "DefName": "InsectJelly",
@@ -1783,7 +1783,7 @@
       "BasePrice": 8,
       "Category": "Tierische Produkte",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Skull": {
       "DefName": "Skull",
@@ -1798,7 +1798,7 @@
       "BasePrice": 5,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggChickenUnfertilized": {
       "DefName": "EggChickenUnfertilized",
@@ -1813,7 +1813,7 @@
       "BasePrice": 7,
       "Category": "Ei (unbefr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggChickenFertilized": {
       "DefName": "EggChickenFertilized",
@@ -1828,7 +1828,7 @@
       "BasePrice": 7,
       "Category": "Ei (befr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggCobraFertilized": {
       "DefName": "EggCobraFertilized",
@@ -1843,7 +1843,7 @@
       "BasePrice": 20,
       "Category": "Ei (befr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggCobraUnfertilized": {
       "DefName": "EggCobraUnfertilized",
@@ -1858,7 +1858,7 @@
       "BasePrice": 14,
       "Category": "Ei (unbefr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggIguanaFertilized": {
       "DefName": "EggIguanaFertilized",
@@ -1873,7 +1873,7 @@
       "BasePrice": 25,
       "Category": "Ei (befr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggIguanaUnfertilized": {
       "DefName": "EggIguanaUnfertilized",
@@ -1888,7 +1888,7 @@
       "BasePrice": 17,
       "Category": "Ei (unbefr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggTortoiseFertilized": {
       "DefName": "EggTortoiseFertilized",
@@ -1903,7 +1903,7 @@
       "BasePrice": 23,
       "Category": "Ei (befr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggTortoiseUnfertilized": {
       "DefName": "EggTortoiseUnfertilized",
@@ -1918,7 +1918,7 @@
       "BasePrice": 17,
       "Category": "Ei (unbefr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggCassowaryFertilized": {
       "DefName": "EggCassowaryFertilized",
@@ -1933,7 +1933,7 @@
       "BasePrice": 19,
       "Category": "Ei (befr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggCassowaryUnfertilized": {
       "DefName": "EggCassowaryUnfertilized",
@@ -1948,7 +1948,7 @@
       "BasePrice": 14,
       "Category": "Ei (unbefr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggEmuFertilized": {
       "DefName": "EggEmuFertilized",
@@ -1963,7 +1963,7 @@
       "BasePrice": 18,
       "Category": "Ei (befr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggEmuUnfertilized": {
       "DefName": "EggEmuUnfertilized",
@@ -1978,7 +1978,7 @@
       "BasePrice": 12,
       "Category": "Ei (unbefr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggOstrichFertilized": {
       "DefName": "EggOstrichFertilized",
@@ -1993,7 +1993,7 @@
       "BasePrice": 23,
       "Category": "Ei (befr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggOstrichUnfertilized": {
       "DefName": "EggOstrichUnfertilized",
@@ -2008,7 +2008,7 @@
       "BasePrice": 15,
       "Category": "Ei (unbefr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggTurkeyFertilized": {
       "DefName": "EggTurkeyFertilized",
@@ -2023,7 +2023,7 @@
       "BasePrice": 11,
       "Category": "Ei (befr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggTurkeyUnfertilized": {
       "DefName": "EggTurkeyUnfertilized",
@@ -2038,7 +2038,7 @@
       "BasePrice": 7,
       "Category": "Ei (unbefr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggDuckUnfertilized": {
       "DefName": "EggDuckUnfertilized",
@@ -2053,7 +2053,7 @@
       "BasePrice": 7,
       "Category": "Ei (unbefr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggDuckFertilized": {
       "DefName": "EggDuckFertilized",
@@ -2068,7 +2068,7 @@
       "BasePrice": 7,
       "Category": "Ei (befr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggGooseUnfertilized": {
       "DefName": "EggGooseUnfertilized",
@@ -2083,7 +2083,7 @@
       "BasePrice": 9,
       "Category": "Ei (unbefr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "EggGooseFertilized": {
       "DefName": "EggGooseFertilized",
@@ -2098,7 +2098,7 @@
       "BasePrice": 11,
       "Category": "Ei (befr.)",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MedicineHerbal": {
       "DefName": "MedicineHerbal",
@@ -2113,7 +2113,7 @@
       "BasePrice": 10,
       "Category": "Medicine",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MedicineIndustrial": {
       "DefName": "MedicineIndustrial",
@@ -2128,7 +2128,7 @@
       "BasePrice": 18,
       "Category": "Medicine",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MedicineUltratech": {
       "DefName": "MedicineUltratech",
@@ -2143,7 +2143,7 @@
       "BasePrice": 50,
       "Category": "Medicine",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ComponentIndustrial": {
       "DefName": "ComponentIndustrial",
@@ -2158,7 +2158,7 @@
       "BasePrice": 32,
       "Category": "Hergestellt",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ComponentSpacer": {
       "DefName": "ComponentSpacer",
@@ -2173,7 +2173,7 @@
       "BasePrice": 200,
       "Category": "Hergestellt",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neutroamine": {
       "DefName": "Neutroamine",
@@ -2188,7 +2188,7 @@
       "BasePrice": 6,
       "Category": "Hergestellt",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Chemfuel": {
       "DefName": "Chemfuel",
@@ -2203,7 +2203,7 @@
       "BasePrice": 2,
       "Category": "Hergestellt",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ReinforcedBarrel": {
       "DefName": "ReinforcedBarrel",
@@ -2218,7 +2218,7 @@
       "BasePrice": 600,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "RawPotatoes": {
       "DefName": "RawPotatoes",
@@ -2233,7 +2233,7 @@
       "BasePrice": 1,
       "Category": "Vegetarisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "RawFungus": {
       "DefName": "RawFungus",
@@ -2248,7 +2248,7 @@
       "BasePrice": 1,
       "Category": "Vegetarisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "RawRice": {
       "DefName": "RawRice",
@@ -2263,7 +2263,7 @@
       "BasePrice": 1,
       "Category": "Vegetarisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "RawAgave": {
       "DefName": "RawAgave",
@@ -2278,7 +2278,7 @@
       "BasePrice": 1,
       "Category": "Vegetarisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "RawCorn": {
       "DefName": "RawCorn",
@@ -2293,7 +2293,7 @@
       "BasePrice": 1,
       "Category": "Vegetarisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "RawBerries": {
       "DefName": "RawBerries",
@@ -2308,7 +2308,7 @@
       "BasePrice": 1,
       "Category": "Vegetarisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Hay": {
       "DefName": "Hay",
@@ -2323,7 +2323,7 @@
       "BasePrice": 1,
       "Category": "Nahrung",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "RawHops": {
       "DefName": "RawHops",
@@ -2338,7 +2338,7 @@
       "BasePrice": 1,
       "Category": "Pflanzlich",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "PsychoidLeaves": {
       "DefName": "PsychoidLeaves",
@@ -2353,7 +2353,7 @@
       "BasePrice": 2,
       "Category": "Pflanzlich",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "SmokeleafLeaves": {
       "DefName": "SmokeleafLeaves",
@@ -2368,7 +2368,7 @@
       "BasePrice": 2,
       "Category": "Pflanzlich",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Shell_HighExplosive": {
       "DefName": "Shell_HighExplosive",
@@ -2383,7 +2383,7 @@
       "BasePrice": 55,
       "Category": "Mörsergranaten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Shell_Incendiary": {
       "DefName": "Shell_Incendiary",
@@ -2398,7 +2398,7 @@
       "BasePrice": 55,
       "Category": "Mörsergranaten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Shell_EMP": {
       "DefName": "Shell_EMP",
@@ -2413,7 +2413,7 @@
       "BasePrice": 55,
       "Category": "Mörsergranaten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Shell_Smoke": {
       "DefName": "Shell_Smoke",
@@ -2428,7 +2428,7 @@
       "BasePrice": 55,
       "Category": "Mörsergranaten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Shell_Firefoam": {
       "DefName": "Shell_Firefoam",
@@ -2443,7 +2443,7 @@
       "BasePrice": 55,
       "Category": "Mörsergranaten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Shell_AntigrainWarhead": {
       "DefName": "Shell_AntigrainWarhead",
@@ -2458,7 +2458,7 @@
       "BasePrice": 1200,
       "Category": "Mörsergranaten",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Silver": {
       "DefName": "Silver",
@@ -2473,7 +2473,7 @@
       "BasePrice": 1,
       "Category": "Rohstoffe",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gold": {
       "DefName": "Gold",
@@ -2488,7 +2488,7 @@
       "BasePrice": 10,
       "Category": "Rohstoffe",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Steel": {
       "DefName": "Steel",
@@ -2503,7 +2503,7 @@
       "BasePrice": 2,
       "Category": "Rohstoffe",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Plasteel": {
       "DefName": "Plasteel",
@@ -2518,7 +2518,7 @@
       "BasePrice": 9,
       "Category": "Rohstoffe",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "WoodLog": {
       "DefName": "WoodLog",
@@ -2533,7 +2533,7 @@
       "BasePrice": 1,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Uranium": {
       "DefName": "Uranium",
@@ -2548,7 +2548,7 @@
       "BasePrice": 6,
       "Category": "Rohstoffe",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Jade": {
       "DefName": "Jade",
@@ -2563,7 +2563,7 @@
       "BasePrice": 5,
       "Category": "Rohstoffe",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Cloth": {
       "DefName": "Cloth",
@@ -2578,7 +2578,7 @@
       "BasePrice": 2,
       "Category": "Textilien",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Synthread": {
       "DefName": "Synthread",
@@ -2593,7 +2593,7 @@
       "BasePrice": 4,
       "Category": "Textilien",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "DevilstrandCloth": {
       "DefName": "DevilstrandCloth",
@@ -2608,7 +2608,7 @@
       "BasePrice": 6,
       "Category": "Textilien",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Hyperweave": {
       "DefName": "Hyperweave",
@@ -2623,7 +2623,7 @@
       "BasePrice": 9,
       "Category": "Textilien",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "WoolSheep": {
       "DefName": "WoolSheep",
@@ -2638,7 +2638,7 @@
       "BasePrice": 3,
       "Category": "Wolle",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "WoolAlpaca": {
       "DefName": "WoolAlpaca",
@@ -2653,7 +2653,7 @@
       "BasePrice": 4,
       "Category": "Wolle",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "WoolMegasloth": {
       "DefName": "WoolMegasloth",
@@ -2668,7 +2668,7 @@
       "BasePrice": 3,
       "Category": "Wolle",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "WoolMuffalo": {
       "DefName": "WoolMuffalo",
@@ -2683,7 +2683,7 @@
       "BasePrice": 3,
       "Category": "Wolle",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "WoolBison": {
       "DefName": "WoolBison",
@@ -2698,7 +2698,7 @@
       "BasePrice": 3,
       "Category": "Wolle",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Plain": {
       "DefName": "Leather_Plain",
@@ -2713,7 +2713,7 @@
       "BasePrice": 2,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Dog": {
       "DefName": "Leather_Dog",
@@ -2728,7 +2728,7 @@
       "BasePrice": 2,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Wolf": {
       "DefName": "Leather_Wolf",
@@ -2743,7 +2743,7 @@
       "BasePrice": 3,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Panthera": {
       "DefName": "Leather_Panthera",
@@ -2758,7 +2758,7 @@
       "BasePrice": 3,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Camel": {
       "DefName": "Leather_Camel",
@@ -2773,7 +2773,7 @@
       "BasePrice": 2,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Bluefur": {
       "DefName": "Leather_Bluefur",
@@ -2788,7 +2788,7 @@
       "BasePrice": 2,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Bear": {
       "DefName": "Leather_Bear",
@@ -2803,7 +2803,7 @@
       "BasePrice": 3,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_GuineaPig": {
       "DefName": "Leather_GuineaPig",
@@ -2818,7 +2818,7 @@
       "BasePrice": 5,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Human": {
       "DefName": "Leather_Human",
@@ -2833,7 +2833,7 @@
       "BasePrice": 4,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Pig": {
       "DefName": "Leather_Pig",
@@ -2848,7 +2848,7 @@
       "BasePrice": 2,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Light": {
       "DefName": "Leather_Light",
@@ -2863,7 +2863,7 @@
       "BasePrice": 2,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Bird": {
       "DefName": "Leather_Bird",
@@ -2878,7 +2878,7 @@
       "BasePrice": 2,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Chinchilla": {
       "DefName": "Leather_Chinchilla",
@@ -2893,7 +2893,7 @@
       "BasePrice": 6,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Fox": {
       "DefName": "Leather_Fox",
@@ -2908,7 +2908,7 @@
       "BasePrice": 4,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Lizard": {
       "DefName": "Leather_Lizard",
@@ -2923,7 +2923,7 @@
       "BasePrice": 2,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Elephant": {
       "DefName": "Leather_Elephant",
@@ -2938,7 +2938,7 @@
       "BasePrice": 3,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Heavy": {
       "DefName": "Leather_Heavy",
@@ -2953,7 +2953,7 @@
       "BasePrice": 3,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Rhinoceros": {
       "DefName": "Leather_Rhinoceros",
@@ -2968,7 +2968,7 @@
       "BasePrice": 4,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Thrumbo": {
       "DefName": "Leather_Thrumbo",
@@ -2983,7 +2983,7 @@
       "BasePrice": 14,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Leather_Patch": {
       "DefName": "Leather_Patch",
@@ -2998,7 +2998,7 @@
       "BasePrice": 2,
       "Category": "Leder",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_ShieldBelt": {
       "DefName": "Apparel_ShieldBelt",
@@ -3013,7 +3013,7 @@
       "BasePrice": 390,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_CowboyHat": {
       "DefName": "Apparel_CowboyHat",
@@ -3028,7 +3028,7 @@
       "BasePrice": 56,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_BowlerHat": {
       "DefName": "Apparel_BowlerHat",
@@ -3043,7 +3043,7 @@
       "BasePrice": 46,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_TribalHeaddress": {
       "DefName": "Apparel_TribalHeaddress",
@@ -3058,7 +3058,7 @@
       "BasePrice": 122,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_Tuque": {
       "DefName": "Apparel_Tuque",
@@ -3073,7 +3073,7 @@
       "BasePrice": 44,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_WarMask": {
       "DefName": "Apparel_WarMask",
@@ -3088,7 +3088,7 @@
       "BasePrice": 61,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_WarVeil": {
       "DefName": "Apparel_WarVeil",
@@ -3103,7 +3103,7 @@
       "BasePrice": 45,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_SimpleHelmet": {
       "DefName": "Apparel_SimpleHelmet",
@@ -3118,7 +3118,7 @@
       "BasePrice": 92,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_AdvancedHelmet": {
       "DefName": "Apparel_AdvancedHelmet",
@@ -3133,7 +3133,7 @@
       "BasePrice": 265,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_PowerArmorHelmet": {
       "DefName": "Apparel_PowerArmorHelmet",
@@ -3148,7 +3148,7 @@
       "BasePrice": 635,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_ArmorHelmetRecon": {
       "DefName": "Apparel_ArmorHelmetRecon",
@@ -3163,7 +3163,7 @@
       "BasePrice": 525,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_PsychicFoilHelmet": {
       "DefName": "Apparel_PsychicFoilHelmet",
@@ -3178,7 +3178,7 @@
       "BasePrice": 250,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_HatHood": {
       "DefName": "Apparel_HatHood",
@@ -3193,7 +3193,7 @@
       "BasePrice": 122,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_ClothMask": {
       "DefName": "Apparel_ClothMask",
@@ -3208,7 +3208,7 @@
       "BasePrice": 23,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_SmokepopBelt": {
       "DefName": "Apparel_SmokepopBelt",
@@ -3223,7 +3223,7 @@
       "BasePrice": 175,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_FirefoampopPack": {
       "DefName": "Apparel_FirefoampopPack",
@@ -3238,7 +3238,7 @@
       "BasePrice": 152,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_PsychicShockLance": {
       "DefName": "Apparel_PsychicShockLance",
@@ -3253,7 +3253,7 @@
       "BasePrice": 550,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_PsychicInsanityLance": {
       "DefName": "Apparel_PsychicInsanityLance",
@@ -3268,7 +3268,7 @@
       "BasePrice": 650,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_TribalA": {
       "DefName": "Apparel_TribalA",
@@ -3283,7 +3283,7 @@
       "BasePrice": 126,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_Parka": {
       "DefName": "Apparel_Parka",
@@ -3298,7 +3298,7 @@
       "BasePrice": 189,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_Pants": {
       "DefName": "Apparel_Pants",
@@ -3313,7 +3313,7 @@
       "BasePrice": 86,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_BasicShirt": {
       "DefName": "Apparel_BasicShirt",
@@ -3328,7 +3328,7 @@
       "BasePrice": 86,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_CollarShirt": {
       "DefName": "Apparel_CollarShirt",
@@ -3343,7 +3343,7 @@
       "BasePrice": 100,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_Duster": {
       "DefName": "Apparel_Duster",
@@ -3358,7 +3358,7 @@
       "BasePrice": 196,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_Jacket": {
       "DefName": "Apparel_Jacket",
@@ -3373,7 +3373,7 @@
       "BasePrice": 165,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_PlateArmor": {
       "DefName": "Apparel_PlateArmor",
@@ -3388,7 +3388,7 @@
       "BasePrice": 475,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_FlakVest": {
       "DefName": "Apparel_FlakVest",
@@ -3403,7 +3403,7 @@
       "BasePrice": 225,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_FlakPants": {
       "DefName": "Apparel_FlakPants",
@@ -3418,7 +3418,7 @@
       "BasePrice": 225,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_FlakJacket": {
       "DefName": "Apparel_FlakJacket",
@@ -3433,7 +3433,7 @@
       "BasePrice": 290,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_PowerArmor": {
       "DefName": "Apparel_PowerArmor",
@@ -3448,7 +3448,7 @@
       "BasePrice": 2035,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_ArmorRecon": {
       "DefName": "Apparel_ArmorRecon",
@@ -3463,7 +3463,7 @@
       "BasePrice": 1540,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Apparel_Robe": {
       "DefName": "Apparel_Robe",
@@ -3478,7 +3478,7 @@
       "BasePrice": 178,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BlocksSandstone": {
       "DefName": "BlocksSandstone",
@@ -3493,7 +3493,7 @@
       "BasePrice": 1,
       "Category": "Steinblöcke",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BlocksGranite": {
       "DefName": "BlocksGranite",
@@ -3508,7 +3508,7 @@
       "BasePrice": 1,
       "Category": "Steinblöcke",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BlocksLimestone": {
       "DefName": "BlocksLimestone",
@@ -3523,7 +3523,7 @@
       "BasePrice": 1,
       "Category": "Steinblöcke",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BlocksSlate": {
       "DefName": "BlocksSlate",
@@ -3538,7 +3538,7 @@
       "BasePrice": 1,
       "Category": "Steinblöcke",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BlocksMarble": {
       "DefName": "BlocksMarble",
@@ -3553,7 +3553,7 @@
       "BasePrice": 1,
       "Category": "Steinblöcke",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Dye": {
       "DefName": "Dye",
@@ -3568,7 +3568,7 @@
       "BasePrice": 3,
       "Category": "Pflanzlich",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Bear_Grizzly": {
       "DefName": "Bear_Grizzly",
@@ -3583,7 +3583,7 @@
       "BasePrice": 700,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Bear_Polar": {
       "DefName": "Bear_Polar",
@@ -3598,7 +3598,7 @@
       "BasePrice": 700,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Ostrich": {
       "DefName": "Ostrich",
@@ -3613,7 +3613,7 @@
       "BasePrice": 250,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Emu": {
       "DefName": "Emu",
@@ -3628,7 +3628,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Cassowary": {
       "DefName": "Cassowary",
@@ -3643,7 +3643,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Cougar": {
       "DefName": "Cougar",
@@ -3658,7 +3658,7 @@
       "BasePrice": 400,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Panther": {
       "DefName": "Panther",
@@ -3673,7 +3673,7 @@
       "BasePrice": 400,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Lynx": {
       "DefName": "Lynx",
@@ -3688,7 +3688,7 @@
       "BasePrice": 250,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Cat": {
       "DefName": "Cat",
@@ -3703,7 +3703,7 @@
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "YorkshireTerrier": {
       "DefName": "YorkshireTerrier",
@@ -3718,7 +3718,7 @@
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "GuineaPig": {
       "DefName": "GuineaPig",
@@ -3733,7 +3733,7 @@
       "BasePrice": 150,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "LabradorRetriever": {
       "DefName": "LabradorRetriever",
@@ -3748,7 +3748,7 @@
       "BasePrice": 250,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Husky": {
       "DefName": "Husky",
@@ -3763,7 +3763,7 @@
       "BasePrice": 250,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Monkey": {
       "DefName": "Monkey",
@@ -3778,7 +3778,7 @@
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Chicken": {
       "DefName": "Chicken",
@@ -3793,7 +3793,7 @@
       "BasePrice": 50,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Duck": {
       "DefName": "Duck",
@@ -3808,7 +3808,7 @@
       "BasePrice": 60,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Turkey": {
       "DefName": "Turkey",
@@ -3823,7 +3823,7 @@
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Goose": {
       "DefName": "Goose",
@@ -3838,7 +3838,7 @@
       "BasePrice": 90,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Cow": {
       "DefName": "Cow",
@@ -3853,7 +3853,7 @@
       "BasePrice": 300,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Boomalope": {
       "DefName": "Boomalope",
@@ -3868,7 +3868,7 @@
       "BasePrice": 350,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Muffalo": {
       "DefName": "Muffalo",
@@ -3883,7 +3883,7 @@
       "BasePrice": 300,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Bison": {
       "DefName": "Bison",
@@ -3898,7 +3898,7 @@
       "BasePrice": 350,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Dromedary": {
       "DefName": "Dromedary",
@@ -3913,7 +3913,7 @@
       "BasePrice": 300,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Goat": {
       "DefName": "Goat",
@@ -3928,7 +3928,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Elk": {
       "DefName": "Elk",
@@ -3943,7 +3943,7 @@
       "BasePrice": 300,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Yak": {
       "DefName": "Yak",
@@ -3958,7 +3958,7 @@
       "BasePrice": 320,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Caribou": {
       "DefName": "Caribou",
@@ -3973,7 +3973,7 @@
       "BasePrice": 300,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Horse": {
       "DefName": "Horse",
@@ -3988,7 +3988,7 @@
       "BasePrice": 550,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Donkey": {
       "DefName": "Donkey",
@@ -4003,7 +4003,7 @@
       "BasePrice": 320,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Elephant": {
       "DefName": "Elephant",
@@ -4018,7 +4018,7 @@
       "BasePrice": 600,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Rhinoceros": {
       "DefName": "Rhinoceros",
@@ -4033,7 +4033,7 @@
       "BasePrice": 700,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Hare": {
       "DefName": "Hare",
@@ -4048,7 +4048,7 @@
       "BasePrice": 50,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Snowhare": {
       "DefName": "Snowhare",
@@ -4063,7 +4063,7 @@
       "BasePrice": 50,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Megascarab": {
       "DefName": "Megascarab",
@@ -4078,7 +4078,7 @@
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Spelopede": {
       "DefName": "Spelopede",
@@ -4093,7 +4093,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Megaspider": {
       "DefName": "Megaspider",
@@ -4108,7 +4108,7 @@
       "BasePrice": 500,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Thrumbo": {
       "DefName": "Thrumbo",
@@ -4123,7 +4123,7 @@
       "BasePrice": 4000,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Cobra": {
       "DefName": "Cobra",
@@ -4138,7 +4138,7 @@
       "BasePrice": 150,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Tortoise": {
       "DefName": "Tortoise",
@@ -4153,7 +4153,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Alphabeaver": {
       "DefName": "Alphabeaver",
@@ -4168,7 +4168,7 @@
       "BasePrice": 250,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Pig": {
       "DefName": "Pig",
@@ -4183,7 +4183,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "WildBoar": {
       "DefName": "WildBoar",
@@ -4198,7 +4198,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Ibex": {
       "DefName": "Ibex",
@@ -4213,7 +4213,7 @@
       "BasePrice": 250,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Deer": {
       "DefName": "Deer",
@@ -4228,7 +4228,7 @@
       "BasePrice": 250,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gazelle": {
       "DefName": "Gazelle",
@@ -4243,7 +4243,7 @@
       "BasePrice": 150,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Chinchilla": {
       "DefName": "Chinchilla",
@@ -4258,7 +4258,7 @@
       "BasePrice": 150,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Sheep": {
       "DefName": "Sheep",
@@ -4273,7 +4273,7 @@
       "BasePrice": 210,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Alpaca": {
       "DefName": "Alpaca",
@@ -4288,7 +4288,7 @@
       "BasePrice": 350,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Megasloth": {
       "DefName": "Megasloth",
@@ -4303,7 +4303,7 @@
       "BasePrice": 700,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Capybara": {
       "DefName": "Capybara",
@@ -4318,7 +4318,7 @@
       "BasePrice": 150,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Squirrel": {
       "DefName": "Squirrel",
@@ -4333,7 +4333,7 @@
       "BasePrice": 35,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Rat": {
       "DefName": "Rat",
@@ -4348,7 +4348,7 @@
       "BasePrice": 35,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Boomrat": {
       "DefName": "Boomrat",
@@ -4363,7 +4363,7 @@
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Raccoon": {
       "DefName": "Raccoon",
@@ -4378,7 +4378,7 @@
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Iguana": {
       "DefName": "Iguana",
@@ -4393,7 +4393,7 @@
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Warg": {
       "DefName": "Warg",
@@ -4408,7 +4408,7 @@
       "BasePrice": 450,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Wolf_Timber": {
       "DefName": "Wolf_Timber",
@@ -4423,7 +4423,7 @@
       "BasePrice": 350,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Wolf_Arctic": {
       "DefName": "Wolf_Arctic",
@@ -4438,7 +4438,7 @@
       "BasePrice": 350,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Fox_Fennec": {
       "DefName": "Fox_Fennec",
@@ -4453,7 +4453,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Fox_Red": {
       "DefName": "Fox_Red",
@@ -4468,7 +4468,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Fox_Arctic": {
       "DefName": "Fox_Arctic",
@@ -4483,7 +4483,7 @@
       "BasePrice": 200,
       "Category": "Animals",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Mech_CentipedeBlaster": {
       "DefName": "Mech_CentipedeBlaster",
@@ -4498,7 +4498,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Mech_CentipedeGunner": {
       "DefName": "Mech_CentipedeGunner",
@@ -4513,7 +4513,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Mech_CentipedeBurner": {
       "DefName": "Mech_CentipedeBurner",
@@ -4528,7 +4528,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Mech_Lancer": {
       "DefName": "Mech_Lancer",
@@ -4543,7 +4543,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Mech_Scyther": {
       "DefName": "Mech_Scyther",
@@ -4558,7 +4558,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Mech_Pikeman": {
       "DefName": "Mech_Pikeman",
@@ -4573,7 +4573,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Mech_Termite": {
       "DefName": "Mech_Termite",
@@ -4588,7 +4588,7 @@
       "BasePrice": 1200,
       "Category": "Mechs",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ArchotechEye": {
       "DefName": "ArchotechEye",
@@ -4603,7 +4603,7 @@
       "BasePrice": 2800,
       "Category": "Archotech",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ArchotechArm": {
       "DefName": "ArchotechArm",
@@ -4618,7 +4618,7 @@
       "BasePrice": 2800,
       "Category": "Archotech",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "ArchotechLeg": {
       "DefName": "ArchotechLeg",
@@ -4633,7 +4633,7 @@
       "BasePrice": 2800,
       "Category": "Archotech",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BionicEye": {
       "DefName": "BionicEye",
@@ -4648,7 +4648,7 @@
       "BasePrice": 1030,
       "Category": "Bionisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BionicArm": {
       "DefName": "BionicArm",
@@ -4663,7 +4663,7 @@
       "BasePrice": 1030,
       "Category": "Bionisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BionicLeg": {
       "DefName": "BionicLeg",
@@ -4678,7 +4678,7 @@
       "BasePrice": 1030,
       "Category": "Bionisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BionicSpine": {
       "DefName": "BionicSpine",
@@ -4693,7 +4693,7 @@
       "BasePrice": 1030,
       "Category": "Bionisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BionicHeart": {
       "DefName": "BionicHeart",
@@ -4708,7 +4708,7 @@
       "BasePrice": 1030,
       "Category": "Bionisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BionicStomach": {
       "DefName": "BionicStomach",
@@ -4723,7 +4723,7 @@
       "BasePrice": 785,
       "Category": "Bionisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "DeathAcidifier": {
       "DefName": "DeathAcidifier",
@@ -4738,7 +4738,7 @@
       "BasePrice": 400,
       "Category": "Bionisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BionicEar": {
       "DefName": "BionicEar",
@@ -4753,7 +4753,7 @@
       "BasePrice": 785,
       "Category": "Bionisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BionicTongue": {
       "DefName": "BionicTongue",
@@ -4768,7 +4768,7 @@
       "BasePrice": 565,
       "Category": "Bionisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "BionicJaw": {
       "DefName": "BionicJaw",
@@ -4783,7 +4783,7 @@
       "BasePrice": 785,
       "Category": "Bionisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Heart": {
       "DefName": "Heart",
@@ -4798,7 +4798,7 @@
       "BasePrice": 1200,
       "Category": "Natürlich",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Lung": {
       "DefName": "Lung",
@@ -4813,7 +4813,7 @@
       "BasePrice": 1000,
       "Category": "Natürlich",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Kidney": {
       "DefName": "Kidney",
@@ -4828,7 +4828,7 @@
       "BasePrice": 900,
       "Category": "Natürlich",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Liver": {
       "DefName": "Liver",
@@ -4843,7 +4843,7 @@
       "BasePrice": 1200,
       "Category": "Natürlich",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "SimpleProstheticLeg": {
       "DefName": "SimpleProstheticLeg",
@@ -4858,7 +4858,7 @@
       "BasePrice": 260,
       "Category": "Prothetisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "SimpleProstheticArm": {
       "DefName": "SimpleProstheticArm",
@@ -4873,7 +4873,7 @@
       "BasePrice": 260,
       "Category": "Prothetisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "SimpleProstheticHeart": {
       "DefName": "SimpleProstheticHeart",
@@ -4888,7 +4888,7 @@
       "BasePrice": 230,
       "Category": "Prothetisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "CochlearImplant": {
       "DefName": "CochlearImplant",
@@ -4903,7 +4903,7 @@
       "BasePrice": 220,
       "Category": "Prothetisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "PowerClaw": {
       "DefName": "PowerClaw",
@@ -4918,7 +4918,7 @@
       "BasePrice": 385,
       "Category": "Prothetisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Joywire": {
       "DefName": "Joywire",
@@ -4933,7 +4933,7 @@
       "BasePrice": 220,
       "Category": "Prothetisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Painstopper": {
       "DefName": "Painstopper",
@@ -4948,7 +4948,7 @@
       "BasePrice": 220,
       "Category": "Prothetisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MeleeWeapon_BreachAxe": {
       "DefName": "MeleeWeapon_BreachAxe",
@@ -4963,7 +4963,7 @@
       "BasePrice": 118,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MeleeWeapon_Mace": {
       "DefName": "MeleeWeapon_Mace",
@@ -4978,7 +4978,7 @@
       "BasePrice": 122,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MeleeWeapon_Gladius": {
       "DefName": "MeleeWeapon_Gladius",
@@ -4993,7 +4993,7 @@
       "BasePrice": 143,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MeleeWeapon_LongSword": {
       "DefName": "MeleeWeapon_LongSword",
@@ -5008,7 +5008,7 @@
       "BasePrice": 265,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MeleeWeapon_Club": {
       "DefName": "MeleeWeapon_Club",
@@ -5023,7 +5023,7 @@
       "BasePrice": 84,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MeleeWeapon_Knife": {
       "DefName": "MeleeWeapon_Knife",
@@ -5038,7 +5038,7 @@
       "BasePrice": 66,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MeleeWeapon_Ikwa": {
       "DefName": "MeleeWeapon_Ikwa",
@@ -5053,7 +5053,7 @@
       "BasePrice": 118,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "MeleeWeapon_Spear": {
       "DefName": "MeleeWeapon_Spear",
@@ -5068,7 +5068,7 @@
       "BasePrice": 193,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_Revolver": {
       "DefName": "Gun_Revolver",
@@ -5083,7 +5083,7 @@
       "BasePrice": 135,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_Autopistol": {
       "DefName": "Gun_Autopistol",
@@ -5098,7 +5098,7 @@
       "BasePrice": 139,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_MachinePistol": {
       "DefName": "Gun_MachinePistol",
@@ -5113,7 +5113,7 @@
       "BasePrice": 220,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_IncendiaryLauncher": {
       "DefName": "Gun_IncendiaryLauncher",
@@ -5128,7 +5128,7 @@
       "BasePrice": 340,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_SmokeLauncher": {
       "DefName": "Gun_SmokeLauncher",
@@ -5143,7 +5143,7 @@
       "BasePrice": 380,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_EmpLauncher": {
       "DefName": "Gun_EmpLauncher",
@@ -5158,7 +5158,7 @@
       "BasePrice": 505,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_BoltActionRifle": {
       "DefName": "Gun_BoltActionRifle",
@@ -5173,7 +5173,7 @@
       "BasePrice": 255,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_PumpShotgun": {
       "DefName": "Gun_PumpShotgun",
@@ -5188,7 +5188,7 @@
       "BasePrice": 255,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_ChainShotgun": {
       "DefName": "Gun_ChainShotgun",
@@ -5203,7 +5203,7 @@
       "BasePrice": 405,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_HeavySMG": {
       "DefName": "Gun_HeavySMG",
@@ -5218,7 +5218,7 @@
       "BasePrice": 355,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_LMG": {
       "DefName": "Gun_LMG",
@@ -5233,7 +5233,7 @@
       "BasePrice": 425,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_AssaultRifle": {
       "DefName": "Gun_AssaultRifle",
@@ -5248,7 +5248,7 @@
       "BasePrice": 480,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_SniperRifle": {
       "DefName": "Gun_SniperRifle",
@@ -5263,7 +5263,7 @@
       "BasePrice": 530,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_Minigun": {
       "DefName": "Gun_Minigun",
@@ -5278,7 +5278,7 @@
       "BasePrice": 1160,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_TripleRocket": {
       "DefName": "Gun_TripleRocket",
@@ -5293,7 +5293,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_DoomsdayRocket": {
       "DefName": "Gun_DoomsdayRocket",
@@ -5308,7 +5308,7 @@
       "BasePrice": 1000,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Weapon_GrenadeFrag": {
       "DefName": "Weapon_GrenadeFrag",
@@ -5323,7 +5323,7 @@
       "BasePrice": 265,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Weapon_GrenadeMolotov": {
       "DefName": "Weapon_GrenadeMolotov",
@@ -5338,7 +5338,7 @@
       "BasePrice": 245,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Weapon_GrenadeEMP": {
       "DefName": "Weapon_GrenadeEMP",
@@ -5353,7 +5353,7 @@
       "BasePrice": 315,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_ChargeBlasterHeavy": {
       "DefName": "Gun_ChargeBlasterHeavy",
@@ -5368,7 +5368,7 @@
       "BasePrice": 1400,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_InfernoCannon": {
       "DefName": "Gun_InfernoCannon",
@@ -5383,7 +5383,7 @@
       "BasePrice": 1400,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_Needle": {
       "DefName": "Gun_Needle",
@@ -5398,7 +5398,7 @@
       "BasePrice": 1400,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Bow_Short": {
       "DefName": "Bow_Short",
@@ -5413,7 +5413,7 @@
       "BasePrice": 45,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Pila": {
       "DefName": "Pila",
@@ -5428,7 +5428,7 @@
       "BasePrice": 109,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Bow_Recurve": {
       "DefName": "Bow_Recurve",
@@ -5443,7 +5443,7 @@
       "BasePrice": 66,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Bow_Great": {
       "DefName": "Bow_Great",
@@ -5458,7 +5458,7 @@
       "BasePrice": 104,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_ChargeRifle": {
       "DefName": "Gun_ChargeRifle",
@@ -5473,7 +5473,7 @@
       "BasePrice": 1010,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_ChargeLance": {
       "DefName": "Gun_ChargeLance",
@@ -5488,7 +5488,7 @@
       "BasePrice": 1355,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "OrbitalTargeterBombardment": {
       "DefName": "OrbitalTargeterBombardment",
@@ -5503,7 +5503,7 @@
       "BasePrice": 1200,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "OrbitalTargeterPowerBeam": {
       "DefName": "OrbitalTargeterPowerBeam",
@@ -5518,7 +5518,7 @@
       "BasePrice": 1200,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "TornadoGenerator": {
       "DefName": "TornadoGenerator",
@@ -5533,7 +5533,7 @@
       "BasePrice": 800,
       "Category": "Apparel",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Gun_ThumpCannon": {
       "DefName": "Gun_ThumpCannon",
@@ -5548,7 +5548,7 @@
       "BasePrice": 1400,
       "Category": "Weapon",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "RimazonLockerSmall": {
       "DefName": "RimazonLockerSmall",
@@ -5563,7 +5563,7 @@
       "BasePrice": 131,
       "Category": "Diverses",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Bear_Grizzly": {
       "DefName": "Meat_Bear_Grizzly",
@@ -5578,7 +5578,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Cassowary": {
       "DefName": "Meat_Cassowary",
@@ -5593,7 +5593,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Cougar": {
       "DefName": "Meat_Cougar",
@@ -5608,7 +5608,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Panther": {
       "DefName": "Meat_Panther",
@@ -5623,7 +5623,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Lynx": {
       "DefName": "Meat_Lynx",
@@ -5638,7 +5638,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Cat": {
       "DefName": "Meat_Cat",
@@ -5653,7 +5653,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_YorkshireTerrier": {
       "DefName": "Meat_YorkshireTerrier",
@@ -5668,7 +5668,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_GuineaPig": {
       "DefName": "Meat_GuineaPig",
@@ -5683,7 +5683,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_LabradorRetriever": {
       "DefName": "Meat_LabradorRetriever",
@@ -5698,7 +5698,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Husky": {
       "DefName": "Meat_Husky",
@@ -5713,7 +5713,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Monkey": {
       "DefName": "Meat_Monkey",
@@ -5728,7 +5728,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Chicken": {
       "DefName": "Meat_Chicken",
@@ -5743,7 +5743,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Duck": {
       "DefName": "Meat_Duck",
@@ -5758,7 +5758,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Turkey": {
       "DefName": "Meat_Turkey",
@@ -5773,7 +5773,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Cow": {
       "DefName": "Meat_Cow",
@@ -5788,7 +5788,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Boomalope": {
       "DefName": "Meat_Boomalope",
@@ -5803,7 +5803,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Muffalo": {
       "DefName": "Meat_Muffalo",
@@ -5818,7 +5818,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Bison": {
       "DefName": "Meat_Bison",
@@ -5833,7 +5833,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Dromedary": {
       "DefName": "Meat_Dromedary",
@@ -5848,7 +5848,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Goat": {
       "DefName": "Meat_Goat",
@@ -5863,7 +5863,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Elk": {
       "DefName": "Meat_Elk",
@@ -5878,7 +5878,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Yak": {
       "DefName": "Meat_Yak",
@@ -5893,7 +5893,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Caribou": {
       "DefName": "Meat_Caribou",
@@ -5908,7 +5908,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Horse": {
       "DefName": "Meat_Horse",
@@ -5923,7 +5923,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Donkey": {
       "DefName": "Meat_Donkey",
@@ -5938,7 +5938,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Elephant": {
       "DefName": "Meat_Elephant",
@@ -5953,7 +5953,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Rhinoceros": {
       "DefName": "Meat_Rhinoceros",
@@ -5968,7 +5968,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Hare": {
       "DefName": "Meat_Hare",
@@ -5983,7 +5983,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Megaspider": {
       "DefName": "Meat_Megaspider",
@@ -5998,7 +5998,7 @@
       "BasePrice": 1,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Thrumbo": {
       "DefName": "Meat_Thrumbo",
@@ -6013,7 +6013,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Cobra": {
       "DefName": "Meat_Cobra",
@@ -6028,7 +6028,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Tortoise": {
       "DefName": "Meat_Tortoise",
@@ -6043,7 +6043,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Alphabeaver": {
       "DefName": "Meat_Alphabeaver",
@@ -6058,7 +6058,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Pig": {
       "DefName": "Meat_Pig",
@@ -6073,7 +6073,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Ibex": {
       "DefName": "Meat_Ibex",
@@ -6088,7 +6088,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Deer": {
       "DefName": "Meat_Deer",
@@ -6103,7 +6103,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Gazelle": {
       "DefName": "Meat_Gazelle",
@@ -6118,7 +6118,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Chinchilla": {
       "DefName": "Meat_Chinchilla",
@@ -6133,7 +6133,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Sheep": {
       "DefName": "Meat_Sheep",
@@ -6148,7 +6148,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Alpaca": {
       "DefName": "Meat_Alpaca",
@@ -6163,7 +6163,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Megasloth": {
       "DefName": "Meat_Megasloth",
@@ -6178,7 +6178,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Capybara": {
       "DefName": "Meat_Capybara",
@@ -6193,7 +6193,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Squirrel": {
       "DefName": "Meat_Squirrel",
@@ -6208,7 +6208,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Rat": {
       "DefName": "Meat_Rat",
@@ -6223,7 +6223,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Boomrat": {
       "DefName": "Meat_Boomrat",
@@ -6238,7 +6238,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Raccoon": {
       "DefName": "Meat_Raccoon",
@@ -6253,7 +6253,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Iguana": {
       "DefName": "Meat_Iguana",
@@ -6268,7 +6268,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Warg": {
       "DefName": "Meat_Warg",
@@ -6283,7 +6283,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Wolf_Timber": {
       "DefName": "Meat_Wolf_Timber",
@@ -6298,7 +6298,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Fox_Fennec": {
       "DefName": "Meat_Fox_Fennec",
@@ -6313,7 +6313,7 @@
       "BasePrice": 2,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Meat_Human": {
       "DefName": "Meat_Human",
@@ -6328,7 +6328,7 @@
       "BasePrice": 1,
       "Category": "Fleisch",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Shooting": {
       "DefName": "Neurotrainer_Shooting",
@@ -6343,7 +6343,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Melee": {
       "DefName": "Neurotrainer_Melee",
@@ -6358,7 +6358,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Construction": {
       "DefName": "Neurotrainer_Construction",
@@ -6373,7 +6373,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Mining": {
       "DefName": "Neurotrainer_Mining",
@@ -6388,7 +6388,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Cooking": {
       "DefName": "Neurotrainer_Cooking",
@@ -6403,7 +6403,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Plants": {
       "DefName": "Neurotrainer_Plants",
@@ -6418,7 +6418,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Animals": {
       "DefName": "Neurotrainer_Animals",
@@ -6433,7 +6433,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Crafting": {
       "DefName": "Neurotrainer_Crafting",
@@ -6448,7 +6448,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Artistic": {
       "DefName": "Neurotrainer_Artistic",
@@ -6463,7 +6463,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Medicine": {
       "DefName": "Neurotrainer_Medicine",
@@ -6478,7 +6478,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Social": {
       "DefName": "Neurotrainer_Social",
@@ -6493,7 +6493,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     },
     "Neurotrainer_Intellectual": {
       "DefName": "Neurotrainer_Intellectual",
@@ -6508,7 +6508,7 @@
       "BasePrice": 750,
       "Category": "Fertigkeitstrainer",
       "Enabled": true,
-      "modactive": false
+      "modactive": true,
     }
   }
 }
