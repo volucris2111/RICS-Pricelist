@@ -13,7 +13,7 @@
       "BasePrice": 160,
       "Category": "Bücher",
       "Enabled": true,
-      "modactive": false
+      "modactive": true
     },
     "Schematic": {
       "DefName": "Schematic",
